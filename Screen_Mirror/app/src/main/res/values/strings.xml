@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Share with you</string>
+    <string name="resize_msg">Please resize both windows using the divider bar to make them equal in size</string>
+    <string name="resize_title">Resize to start</string>
+    <string name="ready_msg">Share your screen by tapping the cast button</string>
+    <string name="ready_title">Ready to share</string>
+    <string name="multi_msg">Please trigger split-window mode by long pressing the overview button</string>
+    <string name="multi_title">Split window to share</string>
+</resources>

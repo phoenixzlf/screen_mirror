@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.1.1_505c8165936956443aaa2deec907f0fdb12553a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/pre-dexed/release/com.android.support-design-25.1.1_b5b52998c0ab204589daed79450b7b80e4769172.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.1.1_14f0d9faf765d788dc6b1134dd2553abbab3239e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.1.1_acc0c112b003208edaf2b79192bbad1eff822432.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.1.1_fd1e63135b6bf8d1822abd8ef28b869248e0368e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.1.1_93e853e94d4bddce18591cfe408b2f96b3d54055.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/steven/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/pre-dexed/release/support-annotations-25.1.1_35ac43e5fca1465b12edb90e1b7f6d83251e117e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-25.1.1_ec53c147fedc6f3bf88587ceb6c8ef6337c370d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.1.1_a6c260ca7a7bc0913ab68b82f3252d43e8e1707a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.1.1_c013ce6ccdf537bf7ab6a661e0f68b373e15cc7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.1.1_6ec8d35296c7fbf91d4e86a48026cd17568f71cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/pre-dexed/release/com.android.support-transition-25.1.1_e74dccc205a5d305d3b8be459dac14f6a0b015aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.1.1_3245ec25f60292388058f0f17ca424dc63babb20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/steven/AndroidStudioProjects/Screen_Mirror/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.1.1_f1f7a7b42673e19732b5e3e3ebf972c9d527c06b.jar" />
+    </item>
+
+</items>
